@@ -1,0 +1,23 @@
+html, body {
+    height: auto;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    height: 300px;
+    width: 50%;
+    margin: 0 auto;
+    border: 10px double black;
+}
+
+#questions {
+    position: relative;
+    margin: 0 auto;
+}
+
+
